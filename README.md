@@ -51,12 +51,8 @@ I'm a FullStack web developer I strives to build immersive and beautiful web app
         />
     </a>
     
-     <a href="https://portfolio-kosuri.netlify.app/" target="_blank"
-        ><img
-            height="25"
-            src="https://img.shields.io/badge/Portfolio"
-        />
-    </a>
+     https://img.shields.io/badge/Portfolio?logoColor=pink&label=Portfolio&link=https%3A%2F%2Fportfolio-kosuri.netlify.app
+
 
     
   
