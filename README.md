@@ -50,7 +50,16 @@ I'm a FullStack web developer I strives to build immersive and beautiful web app
             src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
         />
     </a>
-    <a href="https://portfolio-kosuri.netlify.app/"><button > Portfolio </button></a >
+     <a href="https://portfolio-kosuri.netlify.app/" target="_blank"
+        ><img
+            height="25"
+            src="https://img.shields.io/badge/Portfolio"
+)
+        />
+    </a>
+
+    
+    <a href=><button > Portfolio </button></a >
     <!-- - :raising_hand_man: Take a look at my personal [portfolio](https://portfolio-kosuri.netlify.app/). -->
 
 
