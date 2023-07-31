@@ -128,6 +128,6 @@ I'm a FullStack web developer I strives to build immersive and beautiful web app
 #### GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kosuri-136&theme=dracula&border_radius=7&exclude_days=Sun%2CSat)]
 ![kosuri-136's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kosuri-136&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![kosuri-136's Stats](https://github-readme-stats.vercel.app/api?username=kosuri-136&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
 
