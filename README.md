@@ -126,6 +126,6 @@ I'm a FullStack web developer I strives to build immersive and beautiful web app
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 
 #### GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kosuri-136&theme=dracula&border_radius=7&exclude_days=Sun%2CSat)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kosuri-136&theme=dracula&border_radius=7&exclude_days=Sun%2CSat)]
 
 
