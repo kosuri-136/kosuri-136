@@ -125,4 +125,7 @@ I'm a FullStack web developer I strives to build immersive and beautiful web app
 <!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 
+#### GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kosuri-136&theme=dracula&border_radius=7&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 
