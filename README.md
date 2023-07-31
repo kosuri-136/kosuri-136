@@ -3,7 +3,7 @@
 <img src="./cover.jpg" alt=" kosuri image cover">
 
 
-I'm a FullStack web developer I strives to build immersive and beautiful web applications through carefully crafted code and user-centric design.<br><br>🪴 I am learning more about MERN Stack.<br>📝 Checkout my [Resume](https://drive.google.com/file/d/16y2Woi7pBw7AywjaW2-PQR6R8dMwdOFR/view?usp=sharing).<br><br><br>
+I'm a FullStack web developer I strives to build immersive and beautiful web applications through carefully crafted code and user-centric design.<br><br>🪴 I am learning more about MERN Stack.<br>📝 Checkout my [Resume](https://drive.google.com/file/d/1A9lITpDbENK6bcqqJTqxbQWonhjzK-Q_/view?usp=drive_link).<br><br><br>
 
 💻 Intern at The 10X Academy
 ✏️ improving my skills in UI/UX Design.
